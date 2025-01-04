@@ -81,10 +81,6 @@ The project is structured into several key components:
 
 To run a full analysis, execute the main script, which will guide you through the entire process from data loading to final portfolio evaluation.
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
